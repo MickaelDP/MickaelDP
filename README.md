@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MickaelDP
-- 👀 I’m interested in AI, datascience and more...
-- 🌱 I’m currently in the third year of a computer bachelor's degree
+- 👀 I am interested in software development and data science.
+- 🌱 I have a bachelor's degree in computer science and am continuing my education.
 - 💞️
 - 📫 mickael.d.pernet@gmail.com
 

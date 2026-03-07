@@ -1,4 +1,6 @@
-# 👋 Hey, I'm Mickael
+### 👋 Hey, I'm Mickael
+
+---
 
 ### Software Engineer • Software Architect • Builder
 
@@ -14,6 +16,17 @@ I design and build software systems, tools and prototypes — from desktop appli
   - Prototypes for digital tools and interactive experiences
     
 - 💾 I progressively publish selected components, utilities and experimental projects here.
+
+---
+
+# 🛠️ Portfolio & Projects
+
+## 🤖 Artificial Intelligence & Research
+
+* **[Deep-RL-Sim-Environments](https://github.com/MickaelDP/Deep-RL-Sim-Environments)** 
+> **Research Synthesis (2022)**: Exploration of DRL taxonomies and Sim-to-Real challenges.
+
+---
 
 - 📫 mickael.d.pernet@gmail.com
 

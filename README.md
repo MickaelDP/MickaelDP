@@ -21,6 +21,11 @@ I design and build software systems, tools and prototypes — from desktop appli
 
 # 🛠️ Portfolio & Projects
 
+## 🏗️ Core Computing & Systems
+
+* **[MyShelf-A-custom-Unix-Shell](https://github.com/MickaelDP/MyShelf-A-custom-Unix-Shell)** 
+>  System Architecture: C-based Unix Shell demonstrating core OS concepts, originally built in 2019 and refactored for memory stability in 2026.
+
 ## 🤖 Artificial Intelligence & Research
 
 * **[Deep-RL-Sim-Environments](https://github.com/MickaelDP/Deep-RL-Sim-Environments)** 

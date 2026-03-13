@@ -23,6 +23,9 @@ I design and build software systems, tools and prototypes — from desktop appli
 
 ## 🏗️ Core Computing & Systems
 
+* **[Paper-CPU-Von-Neumann-Architecture-Simulator](https://github.com/MickaelDP/Paper-CPU-Von-Neumann-Architecture-Simulator)**
+>  *ISA Simulation (2020):* A C-based virtual CPU implementing a custom 8-bit Von Neumann architecture. Features a modular execution engine and an interactive stepper/debugger.
+
 * **[MyShelf-A-custom-Unix-Shell](https://github.com/MickaelDP/MyShelf-A-custom-Unix-Shell)** 
 >  System Architecture: C-based Unix Shell demonstrating core OS concepts, originally built in 2019 and refactored for memory stability in 2026.
 

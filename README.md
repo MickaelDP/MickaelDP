@@ -29,6 +29,10 @@ I design and build software systems, tools and prototypes — from desktop appli
 * **[MyShelf-A-custom-Unix-Shell](https://github.com/MickaelDP/MyShelf-A-custom-Unix-Shell)** 
 >  System Architecture: C-based Unix Shell demonstrating core OS concepts, originally built in 2019 and refactored for memory stability in 2026.
 
+* **[Text-Adventure-DSL-Interpreter](https://github.com/MickaelDP/Text-Adventure-DSL-Interpreter
+)** 
+>  Custom DSL & NLP Engine (2022/2026): A multi-layered SLY-based pipeline (Lexer/Parser) interpreting natural language commands. Features a domain-agnostic core and lazy evaluation for complex state management.
+
 ## 🤖 Artificial Intelligence & Research
 
 * **[Deep-RL-Sim-Environments](https://github.com/MickaelDP/Deep-RL-Sim-Environments)** 
@@ -36,7 +40,7 @@ I design and build software systems, tools and prototypes — from desktop appli
 
 ---
 
-## 🛠️ Stack Technique
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
@@ -51,10 +55,9 @@ I design and build software systems, tools and prototypes — from desktop appli
 </p>
 
 
+---
 
-
-
-
+## 🔗 Contact
 
 - 📫 mickael.d.pernet@gmail.com
 

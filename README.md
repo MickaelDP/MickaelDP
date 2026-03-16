@@ -34,7 +34,8 @@ I design and build software systems, tools and prototypes — from desktop appli
 >  Custom DSL & NLP Engine (2022/2026): A multi-layered SLY-based pipeline (Lexer/Parser) interpreting natural language commands. Features a domain-agnostic core and lazy evaluation for complex state management.
 
 ## 🤖 Artificial Intelligence & Research
-
+* **[SOM-Kohonen-C-Engine](https://github.com/MickaelDP/SOM-Kohonen-C-Engine)**
+> **From-Scratch AI (2022/2026)**: A high-performance Self-Organizing Map implementation in C99. Memory-safe (Valgrind verified) and optimized for high-dimensional clustering on datasets like Fisher's Iris and Palmer Penguins.
 * **[Deep-RL-Sim-Environments](https://github.com/MickaelDP/Deep-RL-Sim-Environments)** 
 > **Research Synthesis (2022)**: Exploration of DRL taxonomies and Sim-to-Real challenges.
 

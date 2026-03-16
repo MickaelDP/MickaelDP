@@ -1,4 +1,4 @@
-### 👋 Hey, I'm Mickael
+### 👋 Hey, I'm Mickaël
 
 ---
 

@@ -35,11 +35,11 @@ I design and build software systems, tools and prototypes — from desktop appli
 
 ## 🤖 Artificial Intelligence & Research
 * **[Custom-HTTP-Stack-Symbolic-NLP-Middleware](https://github.com/MickaelDP/Custom_HTTP_Stack-Symbolic_NLP_Middleware)**
-> Custom Web Stack & NLP (Licence/Bachelor Legacy 2020): A from-scratch HTTP server and Symbolic AI engine implemented in Common Lisp. Solves the "Intermediary Converter" problem by bridging stateless protocols with stateful symbolic logic. Developed during my early undergraduate years to explore low-level network-to-logic interfacing.
+> Symbolic AI & NLP (Licence/Bachelor Legacy 2020): A from-scratch implementation of the ELIZA chatbot engine and a custom HTTP stack in Common Lisp. This project explores the roots of Conversational AI by bridging stateless web protocols with stateful symbolic logic.
 
 * **[SOM-Kohonen-C-Engine](https://github.com/MickaelDP/SOM-Kohonen-C-Engine)**
 > **From-Scratch AI (2022/2026)**: A high-performance Self-Organizing Map implementation in C99. Memory-safe (Valgrind verified) and optimized for high-dimensional clustering on datasets like Fisher's Iris and Palmer Penguins.
-> 
+
 * **[Deep-RL-Sim-Environments](https://github.com/MickaelDP/Deep-RL-Sim-Environments)** 
 > **Research Synthesis (2022)**: Exploration of DRL taxonomies and Sim-to-Real challenges.
 

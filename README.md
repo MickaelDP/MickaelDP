@@ -34,6 +34,9 @@ I design and build software systems, tools and prototypes — from desktop appli
 >  Custom DSL & NLP Engine (2022/2026): A multi-layered SLY-based pipeline (Lexer/Parser) interpreting natural language commands. Features a domain-agnostic core and lazy evaluation for complex state management.
 
 ## 🤖 Artificial Intelligence & Research
+* **[Logic-Programming-Inference-Engines-Prolog](https://github.com/MickaelDP/Logic-Programming---Inference-Engines--Prolog-)**
+> **Logic & Optimization (2020 / 2026)**: A showcase of the declarative paradigm using SWI-Prolog. Features an interactive rule-based expert system and a Magic Square solver optimized with Constraint Logic Programming (CLP:FD) to handle high-dimensional search spaces.
+
 * **[Custom-HTTP-Stack-Symbolic-NLP-Middleware](https://github.com/MickaelDP/Custom_HTTP_Stack-Symbolic_NLP_Middleware)**
 > Symbolic AI & NLP (Licence/Bachelor Legacy 2020): A from-scratch implementation of the ELIZA chatbot engine and a custom HTTP stack in Common Lisp. This project explores the roots of Conversational AI by bridging stateless web protocols with stateful symbolic logic.
 

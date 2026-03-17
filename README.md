@@ -64,10 +64,12 @@ I design and build software systems, tools and prototypes — from desktop appli
 * **[MyShelf-A-custom-Unix-Shell](https://github.com/MickaelDP/MyShelf-A-custom-Unix-Shell)** 
 >  System Architecture: C-based Unix Shell demonstrating core OS concepts, originally built in 2019 and refactored for memory stability in 2026.
 
-* **[Text-Adventure-DSL-Interpreter](https://github.com/MickaelDP/Text-Adventure-DSL-Interpreter
-)** 
+* **[Text-Adventure-DSL-Interpreter](https://github.com/MickaelDP/Text-Adventure-DSL-Interpreter)** 
 >  Custom DSL & NLP Engine (2022/2026): A multi-layered SLY-based pipeline (Lexer/Parser) interpreting natural language commands. Features a domain-agnostic core and lazy evaluation for complex state management.
 
+* **[SeaWar-Terminal-Tactical-Battle](https://github.com/MickaelDP/SeaWar-Terminal-Tactical-Battle)**
+> *Game Engine & AI (2021/2026):* A Java-based naval tactical engine implementing **OOP Design Patterns** and MVC principles. Features a multi-state heuristic AI (Hunt & Target logic) and a custom TUI with a retro scientific calculator aesthetic.
+> 
 ## 🤖 Artificial Intelligence & Research
 * **[Logic-Programming-Inference-Engines-Prolog](https://github.com/MickaelDP/Logic-Programming---Inference-Engines--Prolog-)**
 > **Logic & Optimization (2020 / 2026)**: A showcase of the declarative paradigm using SWI-Prolog. Features an interactive rule-based expert system and a Magic Square solver optimized with Constraint Logic Programming (CLP:FD) to handle high-dimensional search spaces.

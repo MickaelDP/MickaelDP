@@ -1,20 +1,55 @@
-### 👋 Hey, I'm Mickaël
+### 👋 Hey, I'm Mickael D. Pernet
 
 ---
 
 ### Software Engineer • Software Architect • Builder
+<div align="center">
+  🎓 Education & Professional Certifications
 
+<table border="0">
+  
+<tr>
+<td width="50%" valign="top">
+<h4>🏛️ Bachelor of Science (B.Sc.)</h4>
+<strong>Computer Science - Programming</strong>
+
+<em>Université Paris 8 | Graduated Mar 2023</em>
+
+<ul>
+<li><strong>MAJOR GPA:</strong> 3.96 / 4.00 </li>
+<li><strong>Specialization:</strong> Development & Systems</li>
+<li><strong>Honors:</strong> Graduated with High Honors</li>
+</ul>
+</td> 
+<td width="50%" valign="top">
+<h4>🏛️ Master of Technology (M.Tech)</h4>
+<strong>Computer Software Development</strong>
+
+<em>OC (WSCUC Accr.) | Graduated Jan 2025</em>
+
+<ul>
+<li><strong>Model:</strong> Competency-Based (CBE)</li>  
+<li><strong>Grading:</strong> Pass (100% Mastery Required)</li>
+<li><strong>Validation:</strong> 12 Projects (First-Attempt)</li>
+<li><strong>Specialization:</strong> Software Architecture </li>
+</ul>
+</td>
+
+
+</tr>
+</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/B.Sc._Major_GPA-3.96_/_4.0-gold?style=for-the-badge&logo=google-scholar" />
+  <img src="https://img.shields.io/badge/B.Sc._Honors-Eq._Summa_Cum_Laude-orange?style=for-the-badge" />
+  
+  <img src="https://img.shields.io/badge/M.Tech_Accreditation-WSCUC_US-blue?style=for-the-badge" />
+</p>
+
+</div> 
 I design and build software systems, tools and prototypes — from desktop applications to backend services and interactive concepts.
 
 - 👀 I’m interested in software engineering, architecture, automation, data workflows, and interactive systems/gaming concepts.
-
-- 🌱 My work focuses on:
-  - Software architecture & system design  
-  - Backend development 
-  - Automation & data parsing  
-  - Desktop apps 
-  - Prototypes for digital tools and interactive experiences
-    
+- 🌱 **Current Focus**: Modernizing legacy systems, cloud-native architecture, and Procedural Content Generation (PCG).
 - 💾 I progressively publish selected components, utilities and experimental projects here.
 
 ---

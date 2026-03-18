@@ -3,9 +3,11 @@
 ---
 
 ### Software Engineer • Software Architect • Builder
-<div align="center">
-  🎓 Education & Professional Certifications
 
+I design and build software systems, tools and prototypes — from desktop applications to backend services and interactive concepts.
+
+## 🎓 Education & Professional Certifications
+<div align="center">
 <table border="0">
   
 <tr>
@@ -46,11 +48,6 @@
 </p>
 
 </div> 
-I design and build software systems, tools and prototypes — from desktop applications to backend services and interactive concepts.
-
-- 👀 I’m interested in software engineering, architecture, automation, data workflows, and interactive systems/gaming concepts.
-- 🌱 **Current Focus**: Modernizing legacy systems, cloud-native architecture, and Procedural Content Generation (PCG).
-- 💾 I progressively publish selected components, utilities and experimental projects here.
 
 ---
 
@@ -83,21 +80,51 @@ I design and build software systems, tools and prototypes — from desktop appli
 * **[Deep-RL-Sim-Environments](https://github.com/MickaelDP/Deep-RL-Sim-Environments)** 
 > **Research Synthesis (2022)**: Exploration of DRL taxonomies and Sim-to-Real challenges.
 
+## 📡 Data Engineering & Automation
+* **[UScrap2Gather](https://github.com/MickaelDP/UScrap2Gather)**
+> Data Pipeline (2022/2026): A robust Python/PySide6 tool for real-time Twitter scraping. Features multi-threaded collection, PostgreSQL integration, and a sophisticated GUI for campaign management.
+
+* **[Hate-Speech-Detection-Analysis](https://github.com/MickaelDP)** 🚧 *[Refactoring in Progress]*
+> Hybrid ML & Transformer-based Analysis (2022): Research project on French hate-speech detection and dataset creation. Implemented a sophisticated multi-stage pipeline:
+  > * **Data Engineering**: Large-scale scraping followed by POS Tagging & Shallow Parsing to extract syntactic structures.
+  > * **Unsupervised Mining**: Applied LOF (Local Outlier Factor) and Random Forest for anomaly detection, using K-Means to cluster lexical patterns without prior labeling.
+  > * **Deep Learning Inference**:Integrated Transformer models (NLP) to resolve context-dependent semantics, significantly improving detection accuracy over traditional keyword-based heuristics.
+
+## 🚀 Current Focus
+
+- 👀 I’m interested in software engineering, architecture, automation, data workflows, and interactive systems/gaming concepts.
+- 🌱 **Current Focus**: Modernizing legacy systems, cloud-native architecture, and Procedural Content Generation (PCG).
+- 💾 I progressively publish selected components, utilities and experimental projects here.
+  
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Toolbox
 
+### 💻 Languages & Logic
 <p align="center">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/lisp-%23000000.svg?style=for-the-badge&logo=common-lisp&logoColor=white" />
+  <img src="https://img.shields.io/badge/prolog-ffa500?style=for-the-badge&logo=prolog&logoColor=white" />
 </p>
 
+### 🏗️ Architecture & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qt_PySide-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MickaelDP&layout=compact&hide=jupyter%20notebook&theme=dark" />
 </p>
+
+---
+
+
 
 <!---
 MickaelDP/MickaelDP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

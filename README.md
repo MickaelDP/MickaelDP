@@ -12,7 +12,7 @@ I design and build software systems, tools and prototypes — from desktop appli
   
 <tr>
 <td width="50%" valign="top">
-<h4>🏛️ Bachelor of Science (B.Sc.)</h4>
+<h4>🏛️ French Bachelor of Science (B.Sc.)</h4>
 <strong>Computer Science - Programming</strong>
 
 <em>Université Paris 8 | Graduated Mar 2023</em>
@@ -24,7 +24,7 @@ I design and build software systems, tools and prototypes — from desktop appli
 </ul>
 </td> 
 <td width="50%" valign="top">
-<h4>🏛️ Master of Technology (M.Tech)</h4>
+<h4>🏛️ U.S. Master of Technology (M.Tech)</h4>
 <strong>Computer Software Development</strong>
 
 <em>OC (WSCUC Accr.) | Graduated Jan 2025</em>

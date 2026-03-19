@@ -30,7 +30,7 @@ I design and build software systems, tools and prototypes — from desktop appli
 <em>OC (WSCUC Accr.) | Graduated Jan 2025</em>
 
 <ul>
-<li><strong>Model:</strong> Model: 60 Credit Hours (CBE) </li>  
+<li><strong>Model:</strong> 60 Credit Hours (CBE) </li>  
 <li><strong>Grading:</strong> Pass (100% Mastery required) </li>
 <li><strong>Validation:</strong> 12 Projects (First-Attempt)</li>
 <li><strong>Specialization:</strong> Software Architecture </li>

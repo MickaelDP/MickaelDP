@@ -30,8 +30,8 @@ I design and build software systems, tools and prototypes — from desktop appli
 <em>OC (WSCUC Accr.) | Graduated Jan 2025</em>
 
 <ul>
-<li><strong>Model:</strong> Competency-Based (CBE)</li>  
-<li><strong>Grading:</strong> Pass (100% Mastery Required)</li>
+<li><strong>Model:</strong> Model: 60 Credit Hours (CBE) </li>  
+<li><strong>Grading:</strong> Pass (100% Mastery required) </li>
 <li><strong>Validation:</strong> 12 Projects (First-Attempt)</li>
 <li><strong>Specialization:</strong> Software Architecture </li>
 </ul>
@@ -81,7 +81,7 @@ I design and build software systems, tools and prototypes — from desktop appli
 > **Research Synthesis (2022)**: Exploration of DRL taxonomies and Sim-to-Real challenges.
 
 ## 📡 Data Engineering & Automation
-* **[UScrap2Gather](https://github.com/MickaelDP/UScrap2Gather)**
+* **[UScrap2Gather](https://github.com/MickaelDP/UScrap2Gather-Multithread-Engine)**
 > Data Pipeline (2022/2026): A robust Python/PySide6 tool for real-time Twitter scraping. Features multi-threaded collection, PostgreSQL integration, and a sophisticated GUI for campaign management.
 
 * **[Hate-Speech-Detection-Analysis](https://github.com/MickaelDP)** 🚧 *[Refactoring in Progress]*
@@ -102,6 +102,10 @@ I design and build software systems, tools and prototypes — from desktop appli
 
 ### 💻 Languages & Logic
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MickaelDP&layout=compact&hide=jupyter%20notebook&theme=dark" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
@@ -117,9 +121,6 @@ I design and build software systems, tools and prototypes — from desktop appli
   <img src="https://img.shields.io/badge/Qt_PySide-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MickaelDP&layout=compact&hide=jupyter%20notebook&theme=dark" />
 </p>
 
 ---

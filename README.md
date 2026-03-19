@@ -81,7 +81,7 @@ I design and build software systems, tools and prototypes — from desktop appli
 > **Research Synthesis (2022)**: Exploration of DRL taxonomies and Sim-to-Real challenges.
 
 ## 📡 Data Engineering & Automation
-* **[UScrap2Gather](https://github.com/MickaelDP/UScrap2Gather-Multithread-Engine)**
+* **[UScrap2Gather-Multithread-Engine](https://github.com/MickaelDP/UScrap2Gather-Multithread-Engine)**
 > Data Pipeline (2022/2026): A robust Python/PySide6 tool for real-time Twitter scraping. Features multi-threaded collection, PostgreSQL integration, and a sophisticated GUI for campaign management.
 
 * **[Hate-Speech-Detection-Analysis](https://github.com/MickaelDP)** 🚧 *[Refactoring in Progress]*

@@ -87,7 +87,7 @@ I design and build software systems, tools and prototypes — from desktop appli
 * **[UScrap2Gather-Multithread-Engine](https://github.com/MickaelDP/UScrap2Gather-Multithread-Engine)**
 > Data Pipeline (2022/2026): A robust Python/PySide6 tool for real-time Twitter scraping. Features multi-threaded collection, PostgreSQL integration, and a sophisticated GUI for campaign management.
 
-* **[Hate-Speech-Detection-Analysis](https://github.com/MickaelDP)**
+* **[Hate-Speech-Detection-Analysis](https://github.com/MickaelDP/Hate-Speech-Detection-NLP-Pipeline)**
 > Hybrid NLP engine for near real-time French toxicity auditing. Combines unsupervised anomaly discovery (LOF/K-Means) with supervised deep learning (Transformers) to bridge statistical patterns and semantic intent. Integrates [UScrap2Gather-Multithread-Engine](https://github.com/MickaelDP/UScrap2Gather-Multithread-Engine) ingestion and [
 NLP-Exploratory-Pipeline-HateSpeech
 ](https://github.com/MickaelDP/NLP-Exploratory-Pipeline-HateSpeech) .

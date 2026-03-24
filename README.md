@@ -41,10 +41,9 @@ I design and build software systems, tools and prototypes — from desktop appli
 </tr>
 </table>
 <p align="center">
-  <img src="https://img.shields.io/badge/B.Sc._Major_GPA-3.96_/_4.0-gold?style=for-the-badge&logo=google-scholar" />
-  <img src="https://img.shields.io/badge/B.Sc._Honors-Eq._Summa_Cum_Laude-orange?style=for-the-badge" />
-  
-  <img src="https://img.shields.io/badge/M.Tech_Accreditation-WSCUC_US-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/B.Sc._Major_GPA-3.96_/_4.0-0055A4?style=for-the-badge&logo=google-scholar" />
+  <img src="https://img.shields.io/badge/B.Sc._Honors-Eq._Summa_Cum_Laude-f8f9fa?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/M.Tech_Accreditation-WSCUC_US-EF4135?style=for-the-badge" />
 </p>
 
 </div> 
@@ -66,7 +65,11 @@ I design and build software systems, tools and prototypes — from desktop appli
 
 * **[SeaWar-Terminal-Tactical-Battle](https://github.com/MickaelDP/SeaWar-Terminal-Tactical-Battle)**
 > *Game Engine & AI (2021/2026):* A Java-based naval tactical engine implementing **OOP Design Patterns** and MVC principles. Features a multi-state heuristic AI (Hunt & Target logic) and a custom TUI with a retro scientific calculator aesthetic.
-> 
+
+## 💼 Business Tools & Desktop Apps
+* **CNET-Hour-Tracker** [PRIVATE]
+> **Production-Ready Desktop Application (2025)**: A production-ready desktop application for professional activity tracking. Features a robust PyQt6/PySide6 interface, SQLAlchemy (SQLite) persistence, and an automated Excel/OpenPyXL reporting engine for compliance auditing. Memory-safe and fully tested via Pytest.
+
 ## 🤖 Artificial Intelligence & Research
 * **[Logic-Programming-Inference-Engines-Prolog](https://github.com/MickaelDP/Logic-Programming---Inference-Engines--Prolog-)**
 > **Logic & Optimization (2020 / 2026)**: A showcase of the declarative paradigm using SWI-Prolog. Features an interactive rule-based expert system and a Magic Square solver optimized with Constraint Logic Programming (CLP:FD) to handle high-dimensional search spaces.
@@ -84,11 +87,10 @@ I design and build software systems, tools and prototypes — from desktop appli
 * **[UScrap2Gather-Multithread-Engine](https://github.com/MickaelDP/UScrap2Gather-Multithread-Engine)**
 > Data Pipeline (2022/2026): A robust Python/PySide6 tool for real-time Twitter scraping. Features multi-threaded collection, PostgreSQL integration, and a sophisticated GUI for campaign management.
 
-* **[Hate-Speech-Detection-Analysis](https://github.com/MickaelDP)** 🚧 *[Refactoring in Progress]*
-> Hybrid ML & Transformer-based Analysis (2022): Research project on French hate-speech detection and dataset creation. Implemented a sophisticated multi-stage pipeline:
-  > * **Data Engineering**: Large-scale scraping followed by POS Tagging & Shallow Parsing to extract syntactic structures.
-  > * **Unsupervised Mining**: Applied LOF (Local Outlier Factor) and Random Forest for anomaly detection, using K-Means to cluster lexical patterns without prior labeling.
-  > * **Deep Learning Inference**:Integrated Transformer models (NLP) to resolve context-dependent semantics, significantly improving detection accuracy over traditional keyword-based heuristics.
+* **[Hate-Speech-Detection-Analysis](https://github.com/MickaelDP)**
+> Hybrid NLP engine for near real-time French toxicity auditing. Combines unsupervised anomaly discovery (LOF/K-Means) with supervised deep learning (Transformers) to bridge statistical patterns and semantic intent. Integrates [UScrap2Gather-Multithread-Engine](https://github.com/MickaelDP/UScrap2Gather-Multithread-Engine) ingestion and [
+NLP-Exploratory-Pipeline-HateSpeech
+](https://github.com/MickaelDP/NLP-Exploratory-Pipeline-HateSpeech) .
 
 ## 🚀 Current Focus
 
@@ -99,12 +101,11 @@ I design and build software systems, tools and prototypes — from desktop appli
 ---
 
 ## 🛠️ Tech Stack & Toolbox
-
-### 💻 Languages & Logic
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MickaelDP&layout=compact&hide=jupyter%20notebook&theme=dark" />
 </p>
 
+### 💻 Languages & Logic
 <p align="center">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -118,10 +119,22 @@ I design and build software systems, tools and prototypes — from desktop appli
 ### 🏗️ Architecture & Tools
 <p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Qt_PySide-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
+
+### 🛠️ Tools & DevOps
+
+<p align="center">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
+<img src="https://img.shields.io/badge/Valgrind-white?style=for-the-badge&logo=valgrind&logoColor=red" />
+</p>
+
 
 ---
 

@@ -52,6 +52,11 @@ I design and build software systems, tools and prototypes — from desktop appli
 
 # 🛠️ Portfolio & Projects
 
+## 🏛️ Enterprise Architecture & IT Governance
+
+* **[IT-Governance-Legacy-System-Modernization](https://github.com/MickaelDP/it-governance-legacy-system-modernization)**
+> *Strategic Architecture (2023/2026):* Modernization roadmap for a legacy logistics system. Includes functional specs, a TOGAF-inspired governance plan, and a C-level pitch for a secure ASP.NET/iOS ecosystem.
+
 ## 🏗️ Core Computing & Systems
 
 * **[Paper-CPU-Von-Neumann-Architecture-Simulator](https://github.com/MickaelDP/Paper-CPU-Von-Neumann-Architecture-Simulator)**

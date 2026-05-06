@@ -99,16 +99,51 @@ NLP-Exploratory-Pipeline-HateSpeech
 
 ## 🚀 Current Focus
 
-- 👀 I’m interested in software engineering, architecture, automation, data workflows, and interactive systems/gaming concepts.
-- 🌱 **Current Focus**: Modernizing legacy systems, cloud-native architecture, and Procedural Content Generation (PCG).
-- 💾 I progressively publish selected components, utilities and experimental projects here.
-  
+# Engine Tooling & Procedural Architecture (PCG):
+
+* **Scalable World-Building Framework (Unreal Engine 5)**
+> Infinite Data-Driven Hexagonal Grid: Architected a coordinate-based system managing tiles with a 1km radius, enabling the generation of maps with virtually no physical limits.
+> *Scalability Proof: Current deployment example manages a seamless 256km² environment governed by unique tile IDs.
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><p><strong>Evolution de la Grille (256km²)</strong></p></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="assets/256grid.png" alt="256km2 Grid" width="700"></td>
+    </tr>
+  </table>
+</div>
+
+
+* **High-Density Stress Testing & Hardware Bottlenecks**
+> Procedural Stress-Testing: Pushed boundaries to handle up to 21 million objects per world-segment, specifically identifying GPU driver-level limitations and hardware-specific bottlenecks (TDR/VRAM).
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>Procedural Generation</b></td>
+      <td align="center"><b>Point Density (21M)</b></td>
+      <td align="center"><b>Final Render Zoom</b></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="assets/genhex.png" alt="Pop on hex" width="250"></td>
+      <td align="center"><img src="assets/density.png" alt="Density" width="250"></td>
+      <td align="center"><img src="assets/zoom.png" alt="You see" width="250"></td>
+    </tr>
+  </table>
+</div>
+
+
+* **Optimization & Prototyping Pipeline**
+> The "Generate > Bake > Fix" Workflow: Implementing a custom pipeline to convert live PCG data into optimized HISM (Hierarchical Instanced Static Meshes) for production-ready real-time performance.
+> Advanced Prototyping: Leveraging a Generative AI pipeline to bridge the gap from initial concept art to high-fidelity 3D demo environments, streamlining the asset-to-engine transition.
+
+* **Modernizing Systems: Applying Software Architecture patterns to legacy modernization and cloud-native transitions.**
 ---
 
 ## 🛠️ Tech Stack & Toolbox
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MickaelDP&layout=compact&hide=jupyter%20notebook&theme=dark" />
-</p>
 
 ### 💻 Languages & Logic
 <p align="center">
@@ -128,6 +163,8 @@ NLP-Exploratory-Pipeline-HateSpeech
   <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Qt_PySide-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
+  <img src="https://img.shields.io/badge/unreal_engine_5-%23313131.svg?style=for-the-badge&logo=unreal-engine&logoColor=white" />
+  <img src="https://img.shields.io/badge/Generative_AI-FF6F61?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 ### 🛠️ Tools & DevOps

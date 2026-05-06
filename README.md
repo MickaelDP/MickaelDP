@@ -108,10 +108,10 @@ NLP-Exploratory-Pipeline-HateSpeech
 <div align="center">
   <table>
     <tr>
-      <td align="center"><p><strong>Evolution de la Grille (256km²)</strong></p></td>
+      <td align="center"><p><strong>Hexagonal Grid Evolution (256km²)</strong></p></td>
     </tr>
     <tr>
-      <td align="center"><img src="assets/256grid.png" alt="256km2 Grid" width="400"></td>
+      <td align="center"><img src="assets/256grid.png" alt="256km2 Grid" width="350"></td>
     </tr>
   </table>
 </div>

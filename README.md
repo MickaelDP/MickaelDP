@@ -111,7 +111,7 @@ NLP-Exploratory-Pipeline-HateSpeech
       <td align="center"><p><strong>Evolution de la Grille (256km²)</strong></p></td>
     </tr>
     <tr>
-      <td align="center"><img src="assets/256grid.png" alt="256km2 Grid" width="700"></td>
+      <td align="center"><img src="assets/256grid.png" alt="256km2 Grid" width="400"></td>
     </tr>
   </table>
 </div>

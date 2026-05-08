@@ -99,7 +99,7 @@ NLP-Exploratory-Pipeline-HateSpeech
 
 ## 🚀 Current Focus
 
-# Engine Tooling & Procedural Architecture (PCG):
+### - Engine Tooling & Procedural Architecture (PCG):
 
 * **Scalable World-Building Framework (Unreal Engine 5)**
 > Infinite Data-Driven Hexagonal Grid: Architected a coordinate-based system managing tiles with a 1km radius, enabling the generation of maps with virtually no physical limits.
@@ -140,7 +140,7 @@ NLP-Exploratory-Pipeline-HateSpeech
 > The "Generate > Bake > Fix" Workflow: Implementing a custom pipeline to convert live PCG data into optimized HISM (Hierarchical Instanced Static Meshes) for production-ready real-time performance.
 > Advanced Prototyping: Leveraging a Generative AI pipeline to bridge the gap from initial concept art to high-fidelity 3D demo environments, streamlining the asset-to-engine transition.
 
-* **Modernizing Systems: Applying Software Architecture patterns to legacy modernization and cloud-native transitions.**
+### - Modernizing Systems: Applying Software Architecture patterns to legacy modernization and cloud-native transitions.
 ---
 
 ## 🛠️ Tech Stack & Toolbox

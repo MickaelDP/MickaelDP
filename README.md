@@ -50,14 +50,14 @@ I design and build software architectures, tools, and interactive prototypes tha
   <table>
     <tr>
       <td align="center"><img src="assets/current1.png" alt="Panoramic vista — biome diversity at scale" width="420"></td>
-      <td align="center"><img src="assets/current2.png" alt="PCG forest — procedural vegetation quality" width="420"></td>
+      <td align="center"><img src="assets/Current2.png" alt="PCG forest — procedural vegetation quality" width="420"></td>
     </tr>
     <tr>
       <td align="center"><em>Panoramic vista — biome diversity at scale</em></td>
       <td align="center"><em>PCG forest — procedural vegetation density</em></td>
     </tr>
     <tr>
-      <td align="center" colspan="2"><img src="assets/current3.png" alt="Rocky terrain — biome transition and PCG rock placement" width="600"></td>
+      <td align="center" colspan="2"><img src="assets/Current3.png" alt="Rocky terrain — biome transition and PCG rock placement" width="600"></td>
     </tr>
     <tr>
       <td align="center" colspan="2"><em>Rocky terrain — biome transition and PCG rock/vegetation placement</em></td>

@@ -9,7 +9,7 @@ I design and build software architectures, tools, and interactive prototypes tha
 
 # 🚀 Featured Project — Adaptive Procedural Worlds: Complete Procedural Game Systems
 
-> From generation to gameplay. Built on the lore of an original unpublished novel — procedural generation serves a pre-existing coherent universe, not a generic sandbox. Data-driven hexagonal world system with procedural mesh generation, layered PCG biomes, adaptive gameplay hooks (quests, spawns, resources), and runtime tile streaming — built from scratch via a Generate → Bake → Fix pipeline, architected for production. Genre-agnostic at the data layer: RPG, strategy, colony-sim, exploration, and beyond.
+> From generation to gameplay. Built on the lore of an original in-progress novel — procedural generation serves a pre-existing coherent universe, not a generic sandbox. Data-driven hexagonal world system with procedural mesh generation, layered PCG biomes, adaptive gameplay hooks (quests, spawns, resources), and runtime tile streaming — built from scratch via a Generate → Bake → Fix pipeline, architected for production. Genre-agnostic at the data layer: RPG, strategy, colony-sim, exploration, and beyond.
 
 <div align="center">
   <table>
